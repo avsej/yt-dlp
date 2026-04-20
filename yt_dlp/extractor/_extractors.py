@@ -55,6 +55,7 @@ from .agora import (
     WyborczaVideoIE,
 )
 from .aitube import AitubeKZVideoIE
+from .akniga import AknigaIE
 from .alibaba import AlibabaIE
 from .aliexpress import AliExpressLiveIE
 from .aljazeera import AlJazeeraIE
